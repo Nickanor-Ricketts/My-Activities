@@ -1,3 +1,4 @@
+# Activities master to be committeed to remote 
 # Bash / Terminal Commands
 
 These are the basic commands for navigating directories in a Terminal or Git Bash window
